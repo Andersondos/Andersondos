@@ -3,23 +3,22 @@
 ### Hi there 👋
 
 My name is Anderson Douglas  🇧🇷
+<div>
+  <div>
+    <img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" width="300" align="right">
+  </div>
+  <div align="left">
+   - 🔭 I’m currently working on ...<br>
+   - 🌱 I’m currently learning ...<br>
+   - 👯 I’m looking to collaborate on ...<br>
+   - 🤔 I’m looking for help with ...<br>
+   - 💬 Ask me about ...<br>
+   - 📫 How to reach me: ...<br>
+   - 😄 Pronouns: ...<br>
+   - ⚡ Fun fact: ...<br>
+  </div>
+</div>
 
-<table>
-  <tr>
-    <td>- 🔭 I’m currently working on ...<br>
-        - 🌱 I’m currently learning ...<br>
-        - 👯 I’m looking to collaborate on ...<br>
-        - 🤔 I’m looking for help with ...<br>
-        - 💬 Ask me about ...<br>
-        - 📫 How to reach me: ...<br>
-        - 😄 Pronouns: ...<br>
-        - ⚡ Fun fact: ...<br>
-    </td>
-    <td><img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" width="300"></td>
-
-  </tr>
- 
-</table>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndersonDouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santos-desenvolvedor/)](https://www.linkedin.com/in/anderson-santos-desenvolvedor/)
