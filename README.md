@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Anderson Douglas  🇧🇷
 </h1>
 <div>
