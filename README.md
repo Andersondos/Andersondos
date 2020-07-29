@@ -1,4 +1,4 @@
-
+###Hi there 👋
 <h1>
   Anderson Douglas  🇧🇷
 </h1>
@@ -7,7 +7,6 @@
     <img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" width="300" align="right">
   </div>
   <div align="left">
-   <h3>Hi there 👋</h3>
    - 🔭 I’m currently working on ...<br>
    - 🌱 I’m currently learning ...<br>
    - 👯 I’m looking to collaborate on ...<br>
