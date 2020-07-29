@@ -8,7 +8,7 @@
   </div>
   <div align="left">
     <h3Hi there 👋</h3>
-   Formado em analise e desenvolvimento de sistemas na faculdade Impacta. Atualmente, trabalho como Desenvolvedor de Software full stack
+   Formado em analise e desenvolvimento de sistemas na faculdade Impacta. Atualmente, trabalho como Desenvolvedor full stack
   </div>
 </div>
 <br><br>
