@@ -1,12 +1,12 @@
-<link href="css/style.css" rel="stylesheet">
+<!-- <link href="css/style.css" rel="stylesheet"> -->
 
 ### Hi there 👋
 
 My name is Anderson Douglas  🇧🇷
 
-![drawing](https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png)
-<!-- <img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" >
-<h1> -->
+<!-- ![drawing](https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png) -->
+<img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" width="30">
+<h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AndersonDouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santos-desenvolvedor/)](https://www.linkedin.com/in/anderson-santos-desenvolvedor/)
 
