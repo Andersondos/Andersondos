@@ -22,6 +22,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AndersonDouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santos-desenvolvedor/)](https://www.linkedin.com/in/anderson-santos-desenvolvedor/)
 [![Gmail Badge](https://img.shields.io/badge/-anderson.devsan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.devsan@gmail.com)](mailto:anderson.devsan@gmail.com)
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=Andersondos&show_icons=true&line_height=3)
+![github stats](https://github-readme-stats.vercel.app/api?username=Andersondos&show_icons=true&line_height=30)
 
 
