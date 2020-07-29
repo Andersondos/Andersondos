@@ -7,14 +7,7 @@
   </div>
   <div align="left">
     <h3Hi there 👋</h3>
-   - 🔭 I’m currently working on ...<br>
-   - 🌱 I’m currently learning ...<br>
-   - 👯 I’m looking to collaborate on ...<br>
-   - 🤔 I’m looking for help with ...<br>
-   - 💬 Ask me about ...<br>
-   - 📫 How to reach me: ...<br>
-   - 😄 Pronouns: ...<br>
-   - ⚡ Fun fact: ...<br>
+   Formado em analise e desenvolvimento de sistemas na faculdade Impacta. Atualmente, trabalho como Desenvolvedor de Software full stack
   </div>
 </div>
 <br><br>
