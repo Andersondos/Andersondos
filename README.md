@@ -1,21 +1,10 @@
 <h1>
   Anderson Douglas  🇧🇷
 </h1>
+
 <div>
   <div>
-    <img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" width="300" align="right">
-  </div>
-  <div align="left">
-    <h3Hi there 👋</h3>
-   - 🔭 I’m currently working on ...<br>
-   - 🌱 I’m currently learning ...<br>
-   - 👯 I’m looking to collaborate on ...<br>
-   - 🤔 I’m looking for help with ...<br>
-   - 💬 Ask me about ...<br>
-   - 📫 How to reach me: ...<br>
-   - 😄 Pronouns: ...<br>
-   - ⚡ Fun fact: ...<br>
-  </div>
+    <img src="https://github.com/Andersondos/Andersondos/blob/master/assets/image/octocat-Anderson-2.png" width="300">
 </div>
 <br><br>
 
